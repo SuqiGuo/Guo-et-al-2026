@@ -1,4 +1,4 @@
-# Guo-et-al.-2025-NC
+# Guo-et-al.-2026
 This repository contains the scripts used in Guo et al. (2025), "Framework for mapping land-use effects on carbon and climate across perspectives."
 
 1. Figures folder
