@@ -19,4 +19,4 @@ Contains three subfolders:
 
  Reference: Winckler, J., Reick, C. H. & Pongratz, J. Robust identification of local biogeophysical effects of land-cover change in a global climate model. J. Clim. 30, 1159–1176 (2017).
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16193304.svg)](https://doi.org/10.5281/zenodo.16193304)
+[[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16193304.svg)](https://doi.org/10.5281/zenodo.16193304)](https://doi.org/10.5281/zenodo.18545740)
